@@ -1,13 +1,13 @@
 body {
-  background: #1d104c;
+  background: #0033cc;
   background-size: cover;
   text-align: center;
-  color: #E0B0FF;
+  color: #00802b;
   font-family: 'Gentium Book Basic', serif;
 }
 table{
    background-color: grey;
-   color: #800080;
+   color: #0033cc;
    margin-left: auto;
    margin-right: auto;
    border: 2px solid darkred ;
@@ -15,7 +15,7 @@ table{
 }
 th, td{
   border: 2px solid darkred;
-  color: #800080;
+  color: #0033cc; 
   font-size: medium;
   border-radius: 2px;
   width: 300px;
