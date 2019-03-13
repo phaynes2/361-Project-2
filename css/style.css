@@ -1,3 +1,9 @@
+a:link {
+  color: red;
+}
+a:visited {
+  color: red;
+}
 body {
   background: #0033cc;
   background-size: cover;
@@ -10,14 +16,14 @@ table{
    color: #0033cc;
    margin-left: auto;
    margin-right: auto;
-   border: 2px solid darkred ;
+   border: 3px solid darkred ;
    font-family: inherit;
 }
 th, td{
   border: 2px solid darkred;
   color: #0033cc; 
   font-size: medium;
-  border-radius: 2px;
+  border-radius: 3px;
   width: 300px;
   height:45px;
   text-align: center; 
