@@ -36,22 +36,22 @@ th, td{
   height:10%;
 }
 #flann{
+  width:9%;
+  height:9%;
+}
+#pierce{
   width:10%;
   height:10%;
 }
-  #pierce{
+#riordan{
   width:10%;
   height:10%;
-  }
-  #riordan{
+}
+#weir{
+  width:13%;
+  height:13%;
+}
+#logoAPlus{
   width:10%;
   height:10%;
-  }
-  #weir{
-  width:10%;
-  height:10%;
-  }
-img{
-  width:30%;
-  height:30%;
 }
