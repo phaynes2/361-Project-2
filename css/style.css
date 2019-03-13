@@ -4,6 +4,7 @@ a:link {
 a:visited {
   color: red;
 }
+/* general stuff*/
 body {
   background: #0033cc;
   background-size: cover;
@@ -30,10 +31,26 @@ th, td{
   font-family: inherit;
 
 }
-img{
+#paolini{
   width:10%;
   height:10%;
 }
+#flann{
+  width:10%;
+  height:10%;
+}
+  #pierce{
+  width:10%;
+  height:10%;
+  }
+  #riordan{
+  width:10%;
+  height:10%;
+  }
+  #weir{
+  width:10%;
+  height:10%;
+  }
 img{
   width:30%;
   height:30%;
