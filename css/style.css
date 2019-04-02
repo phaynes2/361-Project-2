@@ -1,15 +1,15 @@
 a:link {
-  color: red;
+  color: #99e699;
 }
 a:visited {
-  color: darkred;
+  color: red;
 }
 /* general stuff*/
 body {
-  background:  #3385ff;
+  background:   #003d99;
   background-size: cover;
   text-align: center;
-  color: #069636;
+  color:   #99e699;
   font-family: 'Gentium Book Basic', serif;
 }
 table{
@@ -17,11 +17,11 @@ table{
    color: #0033cc;
    margin-left: auto;
    margin-right: auto;
-   border: 3px solid darkred ;
+   border: 3px solid red ;
    font-family: inherit;
 }
 th, td{
-  border: 2px solid darkred;
+  border: 2px solid red;
   color: #0033cc; 
   font-size: medium;
   border-radius: 3px;
