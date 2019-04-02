@@ -4,6 +4,7 @@ a:link {
 a:visited {
   color: red;
 }
+
 /* general stuff*/
 body {
   background:   #003d99;
@@ -31,11 +32,17 @@ th, td{
   font-family: inherit;
 
 }
-img{
-  width:30%;
-  height:30%;  
+ol li{
+  background: grey;
+  padding: 2px;
+  margin-left: 35px;
+  
 }
-img{
+#inigo{
+  width:20%;
+  height:20%
+}
+#computer{
   width:30%;
   height:30%;  
 }
@@ -63,3 +70,7 @@ img{
   width:10%;
   height:10%;
 }
+#vod[
+  width:;
+  height:;
+ }
