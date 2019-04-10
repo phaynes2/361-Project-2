@@ -33,13 +33,15 @@ th, td{
 
 }
 ol li{
+  position:relative;
   background: grey;
   padding: 2px;
-  margin-left: 35px;
+  margin-left: 3px;
   
 }
 
 #list{
+  position:relative;
   width:50%;
   float: left;
 }
