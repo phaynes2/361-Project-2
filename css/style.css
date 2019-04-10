@@ -6,6 +6,28 @@ a:visited {
 }
 
 /* general stuff*/
+*{
+  box-sizing: border-box;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 50%;
+}
+.three {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+
+/* Clear floats after the columns */
+.boxx:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 body {
   background:   #003d99;
   background-size: cover;
@@ -38,16 +60,6 @@ ol li{
   padding: 2px;
   margin-left: 3px;
   
-}
-
-#list{
-  position:relative;
-  width:50%;
-  float: left;
-}
-list2{
-  width:50%;
-  float:right;
 }
 #inigo{
   width:20%;
