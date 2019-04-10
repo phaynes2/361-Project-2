@@ -21,8 +21,6 @@ a:visited {
   padding: 10px;
   height: 300px;
 }
-
-/* Clear floats after the columns */
 .boxx:after {
   content: "";
   display: table;
