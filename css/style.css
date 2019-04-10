@@ -8,13 +8,12 @@ a:visited {
 *{
   box-sizing: border-box;
 }
-.three {
+.three{
   float: left;
   width: 33.33%;
   padding: 10px;
-  height: 300px;
 }
-.boxx:after {
+.column:after {
   content: "";
   display: table;
   clear: both;
@@ -27,8 +26,9 @@ a:visited {
   flex: 50%;
 }
 img{
-  width:100%;
+  width:90%;
   position:relative;
+  object-fit: cover;
 }
 body {
   background: #003d99;
@@ -60,14 +60,6 @@ ol li{
   background: grey;
   padding: 2px;
   margin-left: 3px;
-}
-#inigo{
-  width:20%;
-  height:20% 
-}
-#computer{
-  width:30%;
-  height:30%;
 }
 #paolini{
   width:10%;
