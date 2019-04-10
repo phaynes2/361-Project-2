@@ -4,13 +4,11 @@ a:link {
 a:visited {
   color: red;
 }
-
 /* general stuff*/
 *{
   box-sizing: border-box;
 }
 .three {
-
   float: left;
   width: 33.33%;
   padding: 10px;
@@ -28,50 +26,48 @@ a:visited {
 .column {
   flex: 50%;
 }
-
 img{
   width:100%;
+  position:relative;
 }
 body {
-  background:   #003d99;
+  background: #003d99;
   background-size: cover;
   text-align: center;
-  color:   #99e699;
+  color: #99e699;
   font-family: 'Gentium Book Basic', serif;
 }
 table{
-   background-color: grey;
-   color: #0033cc;
-   margin-left: auto;
-   margin-right: auto;
-   border: 3px solid red ;
-   font-family: inherit;
+  background-color: grey;
+  color: #0033cc;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid red ;
+  font-family: inherit;
 }
 th, td{
   border: 2px solid red;
-  color: #0033cc; 
+  color: #0033cc;
   font-size: medium;
   border-radius: 3px;
   width: 300px;
   height:45px;
-  text-align: center; 
+  text-align: center;
   font-family: inherit;
-
 }
 ol li{
   position:relative;
   background: grey;
   padding: 2px;
   margin-left: 3px;
-  
 }
 #inigo{
   width:20%;
-  height:20%
+  height:20% 
 }
 #computer{
   width:30%;
-  height:30%;  
+  height:30%;
 }
 #paolini{
   width:10%;
@@ -97,7 +93,7 @@ ol li{
   width:10%;
   height:10%;
 }
-#vod[
+#vod{ 
   width:;
-  height:;
- }
+  height:
+}
